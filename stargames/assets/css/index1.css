@@ -1,1 +1,31 @@
- 
+#topo {
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/bannerfundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+} 
+
+
+nav ul li a {
+    position: relative;
+    display: block;
+    color: white;
+    padding: 0;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif,serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+nav ul li a:hover {
+    color:#84173E;
+}
+
+nav{
+	height:101,5%;
+}
+
