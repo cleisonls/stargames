@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/index1.css">
+		<link rel="stylesheet" href="assets/css/index2.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<title>StarGames</title>
 	</head>
@@ -57,47 +57,30 @@
 		</nav>
 		
 	<!---banner -->
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-md-12 text-center" id="topo" style=" height:350px">
-					<div class="container-fluid">
-		<div id="banner">
-        <center>
-			<div class="col-12 col-sm-4 col-md-8">
-				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top: 40px;">
-					<ol class="carousel-indicators">
-					  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-					  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-					  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-					  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-					</ol>
-					<div class="carousel-inner">
-					  <div class="carousel-item active">
-						<img class="d-block w-100" src="assets/img/banner1.jpg" alt="First slide">
-					  </div>
-					  <div class="carousel-item">
-						<img class="d-block w-100" src="assets/img/banner2.jpg" alt="Second slide">
-					  </div>
-					  <div class="carousel-item">
-						<img class="d-block w-100" src="assets/img/banner3.jpg" alt="Third slide">
-					  </div>
-					</div>
-					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-					  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					  <span class="sr-only">Anterior</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-					  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-					  <span class="sr-only">Próximo</span>
-					</a>
-				</div>
+	
+			<div class="col-md-12 gtatopo" style=" height:300px">
+                <br><br><br>
+                <div class="container">
+                <div class="row">
+                <div class="col-3">
+                    <div class="banner1">
+                    </div>
+                </div>
+                <div class="col-9">
+                <br>
+                <div class="icones">
+                <p><i class="fas fa-desktop"></i></p>
+                <p><i class="fab fa-playstation"></i></p>
+                <p><i class="fab fa-xbox"></i></p>
+                </div>
+                <br>
+                <h1>Grand Theft Auto V (2014)</h1>
+                </div>
+                </div>
+                </div>
             </div>
-        </center>
-    </div>
-			</div>
-		</div>
-	</div>
-		<br><hr><br><br><br><br><br><br><br><br><br><br><br>
+
+		<br><br>
 		
 	<!---conteudo-->
 	<div class="container">
@@ -105,115 +88,60 @@
 		<div class="row">
 		<!--conteudo esquerda-->
 			<div class="col-md-8">
-				<div class="card" style="width:650px; height:200px;">
+				<div class="container" style="width:650px; height:200px;">
 					<div class="row">
 						<div class="col-5">
-							<img class="card-img-top" src="assets/img/semfoto.jpg" alt="Card image cap">
-						</div>
-						<div class="col-7">
-							<div class="carousel-caption d-none d-md-block">
-								<h5>É o Miranha</h5>
-								<p>Spoder-Man Appears</p>
-							  </div>
-						</div>
-					</div>
-				</div>
-			
-				<div class="card" style="width:650px; height:200px;">
-					<div class="row">
-						<div class="col-5">
-							<img class="card-img-top" src="assets/img/semfoto.jpg" alt="Card image cap">
+                            <br>
+							<img class="container-fluid" src="assets/img/gtabanner1.jpg" alt="Card image cap">
 						</div>
 						<div class="col-7">
 							<div class="card-body">
-								<h5 class="card-title">Card title</h5>
+								<h5 class="card-title">Análise GTA V</h5>
 								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-								<a href="#" class="btn btn-primary">Go somewhere</a>
 							</div>
 						</div>
 					</div>
-				</div>
-			
-				<div class="card" style="width:650px; height:200px;">
-					<div class="row">
-						<div class="col-5">
-							<img class="card-img-top" src="assets/img/semfoto.jpg" alt="Card image cap">
-						</div>
-						<div class="col-7">
-							<div class="card-body">
-								<h5 class="card-title">Card title</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-								<a href="#" class="btn btn-primary">Go somewhere</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="card" style="width:650px; height:200px;">
-					<div class="row">
-						<div class="col-5">
-							<img class="card-img-top" src="assets/img/semfoto.jpg" alt="Card image cap">
-						</div>
-						<div class="col-7">
-							<div class="card-body">
-								<h5 class="card-title">Card title</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-								<a href="#" class="btn btn-primary">Go somewhere</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                </div>
+            </div>
 			
 			<!--conteudo direita-->
-			<div class="col-md-4" style="background:#ccc">
-				<div class="analise">
-					<div><h2>Análises</h2></div>
-					<div class="caixaAnalise" style="background:#fff">
+			<div class="col-md-4">
+            <div class="container ficha">
+					<div><h2>Ficha Técnica</h2></div>
+					<div class="caixaficha">
+                            <p>Data de lançamento:</p>
+                            <p>14/04/2015</p>
+                    </div>
+                    <br>
+                    <div class="caixaficha">
 						<div class="tituloAnalise">
-							<h5>GTA 5</h5>
+                            <p>Classificação:</p>
+                            <p>Para maiores de 18 anos</p>
 						</div>
-						<div class="plataformaAnalise">
-							PC
-						</div>
-					</div>
-					<hr>
-					<div class="caixaAnalise" style="background:#fff">
+                    </div>
+                    <br>
+                    <div class="caixaficha">
 						<div class="tituloAnalise">
-							<h5>GTA 5</h5>
+                            <p>Desenvolvedora:</p>
+                            <p>Rockstar North</p>
 						</div>
-						<div class="plataformaAnalise">
-							PC
-						</div>
-					</div>
-					<hr>
-					<div class="caixaAnalise" style="background:#fff">
+                    </div>
+                    <br>
+                    <div class="caixaficha">
 						<div class="tituloAnalise">
-							<h5>GTA 5</h5>
+                            <p>Distribuidora:</p>
+                            <p>Rockstar Games</p>
 						</div>
-						<div class="plataformaAnalise">
-							PC
-						</div>
-					</div>
-					<hr>
-					<div class="caixaAnalise" style="background:#fff">
+                    </div>
+                    <br>
+                    <div class="caixaficha">
 						<div class="tituloAnalise">
-							<h5>GTA 5</h5>
+                            <p>Número de jogadores:</p>
+                            <p>1-16</p>
 						</div>
-						<div class="plataformaAnalise">
-							PC
-						</div>
-					</div>
-					<hr>
-					<div class="caixaAnalise" style="background:#fff">
-						<div class="tituloAnalise">
-							<h5>GTA 5</h5>
-						</div>
-						<div class="plataformaAnalise">
-							PC
-						</div>
-					</div>
-				</div>
+                    </div>
+                    <br>
+            </div>
 			</div>
 		</div>
 	</div>

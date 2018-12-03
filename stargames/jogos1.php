@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/index1.css">
+		<link rel="stylesheet" href="assets/css/index2.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<title>StarGames</title>
 	</head>
@@ -57,46 +57,15 @@
 		</nav>
 		
 	<!---banner -->
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-md-12 text-center" id="topo" style=" height:350px">
-					<div class="container-fluid">
-		<div id="banner">
-        <center>
-			<div class="col-12 col-sm-4 col-md-8">
-				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top: 40px;">
-					<ol class="carousel-indicators">
-					  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-					  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-					  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-					  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-					</ol>
-					<div class="carousel-inner">
-					  <div class="carousel-item active">
-						<img class="d-block w-100" src="assets/img/banner1.jpg" alt="First slide">
-					  </div>
-					  <div class="carousel-item">
-						<img class="d-block w-100" src="assets/img/banner2.jpg" alt="Second slide">
-					  </div>
-					  <div class="carousel-item">
-						<img class="d-block w-100" src="assets/img/banner3.jpg" alt="Third slide">
-					  </div>
-					</div>
-					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-					  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					  <span class="sr-only">Anterior</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-					  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-					  <span class="sr-only">Próximo</span>
-					</a>
-				</div>
+	
+			<div class="col-md-12 topo2" style=" height:450px">
+                <br><br><br><br><br><br><br><br><br><br><br><br>
+                <div class="container">
+                <p>SEJA O PRIMEIRO A COMENTAR E COMPARTILHAR</p>
+                <h1>DUPLA ITALIANA TALE OF US SÃO OS NOVOS DJS EM GTA ONLINE</h1>
+                </div>
             </div>
-        </center>
-    </div>
-			</div>
-		</div>
-	</div>
+
 		<br><hr><br><br><br><br><br><br><br><br><br><br><br>
 		
 	<!---conteudo-->
