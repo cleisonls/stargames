@@ -1,0 +1,189 @@
+#usuario{
+    color: #fff;
+    position: relative;
+    color: white;
+    padding: 0;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    font-family: 'Segoe UI Bold', Tahoma, Verdana, sans-serif,serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#topo {
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(to right, #b72150 0%,#dd551f 100%);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+} 
+
+
+.nov4 a {
+    position: relative;
+    color: white;
+    padding: 0;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    font-family: 'Segoe UI Bold', Tahoma, Verdana, sans-serif,serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.nov4 a:hover {
+    color:#E83F7C;
+}
+.card{
+    width:650px; 
+    height:200px;
+}
+ .nov1 a{
+                width:20px;
+                position: relative;
+                display: block;
+                color: black;
+                padding: 0;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+                font-family: 'Segoe UI Light', Tahoma, Verdana, sans-serif,serif;
+                font-weight: 700;
+                font-size: 25px;
+                text-transform: uppercase;
+            }
+            .nov1 a:hover{
+                color:#E83F7C;
+            }
+            .nov1 a:link 
+            { 
+            text-decoration:none; 
+            }
+            .nov2 li a{
+                width:20px;
+                position: relative;
+                display: block;
+                color: white;
+                padding: 0;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+                font-family: 'Segoe UI Bold', Tahoma, Verdana, sans-serif,serif;
+                font-weight: 700;
+                font-size: 60px;
+                text-transform: uppercase;
+            }
+            .nov2 li a:hover{
+                color:#FB8A41;
+            }
+            .nov3 a{
+                width:20px;
+                position: relative;
+                display: block;
+                color: white;
+                padding: 0;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+                font-family: 'Segoe UI Light', Tahoma, Verdana, sans-serif,serif;
+                font-weight: 700;
+                font-size: 25px;
+                text-transform: uppercase;
+            }
+            .nov3 a:hover{
+                color:#E83F7C;
+            }
+            .nov3 a:link 
+            { 
+            text-decoration:none; 
+            }
+            .card-body a{
+                position: relative;
+                display: block;
+                color: black;
+                padding: 0;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+                font-family: 'Segoe UI SemiBold', Tahoma, Verdana, sans-serif,serif;
+                font-size: 25px;
+                text-transform: uppercase;
+            }
+            .card-body a:hover{
+                color:#E83F7C;
+            }
+            .card-body a:link 
+            { 
+            text-decoration:none; 
+            }
+            .card-body2 a{
+                position: relative;
+                display: block;
+                color: white;
+                padding: 0;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+                font-family: 'Segoe UI SemiBold', Tahoma, Verdana, sans-serif,serif;
+                font-size: 29px;
+                text-transform: uppercase;
+            }
+            .card-body2 a:hover{
+                color:#E81863;
+            }
+            .card-body2 a:link 
+            { 
+            text-decoration:none; 
+            }
+            nov4 a {
+                position: relative;
+                display: block;
+                color: white;
+                padding: 0;
+                -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+                font-family: 'Segoe UI', Tahoma, Verdana, sans-serif,serif;
+                font-size: 20px;
+                text-transform: uppercase;
+            }
+            nov4 a:hover {
+                color:#84173E;
+            }
+
+.nov5 a{
+    width:20px;
+    position: relative;
+    color: white;
+    padding: 0;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif,serif;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.nov5 a:hover{
+    color:#E83F7C;
+}
+.nov5 a:link{ 
+    text-decoration:none; 
+}
+.nov6 a{
+    width:20px;
+    position: relative;
+    color: white;
+    padding: 0;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif,serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+.nov6 a:hover{
+    color:#E83F7C;
+}
+.nov6 a:link{ 
+    text-decoration:none; 
+}
+.info{
+    font-family: 'Segoe UI SemiBold', Tahoma, Verdana, sans-serif,serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+}
